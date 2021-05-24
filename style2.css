@@ -87,11 +87,35 @@ a{
     position: relative;
 }
 
+
+.hebele{
+    float: right;
+    width: 500px; ;
+    height: 600px;
+    margin: auto -700px ;
+}
+
+p{
+    font-size: 150%;
+    text-align: justify;
+    color: white;
+}
+
+#daniiii{
+    float: right;
+    margin: -100px  200px ;
+}
+
+#danika{
+    float: right;
+    margin: -800px  200px ; 
+}
+
 footer{
-    width:100%;
+    width: 100%;
     height:40px; 
-    background-color:#000000;
-    padding:0;margin:0 auto;
+    padding:0;
+    margin: 800px 10px;
     position:absolute;
     left:0;
 }
