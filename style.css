@@ -1,0 +1,114 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    color:white;
+    font-size: 250%;
+    
+}
+
+img{
+    float: right;
+    margin: -1200px  400px ;
+}
+
+p{
+    font-size: 150%;
+    text-align: justify;
+    color: white;
+}
+
+
+h2{
+    font-size: 190%;
+    text-align: center;
+}
+
+div{
+    width: 400px;
+    height: 800px;
+    margin: 0px  500px ;
+}
+
+table{
+    width: 800px;
+    height: 800px;
+    margin: 200px  auto ;
+    text-align: center;
+    font-size: 200%;
+    
+}
+
+td{
+    width: 50%;
+}
+
+#kép2{
+    float: right;
+    margin: -600px  350px;
+}
+
+#kép3{
+    width: 60px;
+    height: 50px;
+    margin: 0 auto 0 auto;
+}
+
+#kép4{
+    width: 60px;
+    height: 55px;
+    margin: 0 auto 0 auto;
+}
+
+#kép5{
+    width: 60px;
+    height: 40px;
+    margin: 0 auto 0 auto;
+}
+
+h3{
+    color: white;
+}
+
+button{
+    font-size: 110%;
+}
+
+td{
+    border: 3px solid white;
+}
+
+tr{
+    border: 3px solid white;
+}
+
+th{
+    border: 3px solid white;
+}
+
+#link{
+    background-color: white;
+    color: black;	
+    text-align: center;
+}
+
+#fooldal{
+    width: 7px;
+    height: 7px;
+}
+
+footer{
+    width:100%;
+    height:40px; 
+    background-color:#000000;
+    padding:0;margin:0 auto;
+    position:absolute;
+    left:0;
+}
+
+a {
+    text-decoration: none;
+}
